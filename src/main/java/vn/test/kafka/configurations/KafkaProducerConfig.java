@@ -1,4 +1,4 @@
-package vn.ghtk.kafka.configurations;
+package vn.test.kafka.configurations;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
